@@ -1,6 +1,6 @@
-streamlit
+streamlit==1.38.0
 scikit-learn==1.5.1
-numpy
-pandas
-openpyxl
-joblib
+numpy==1.26.4
+pandas==2.2.2
+openpyxl==3.1.5
+joblib==1.4.2
