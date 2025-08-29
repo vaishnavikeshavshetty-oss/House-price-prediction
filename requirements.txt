@@ -1,3 +1,6 @@
 streamlit
-joblib
+scikit-learn==1.5.1
 numpy
+pandas
+openpyxl
+joblib
